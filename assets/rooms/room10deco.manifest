@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 1895438952
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8b88d2275d2a5a2020edcb004cfe16d8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 34f667c93f4ef4c4db3451d697be45f0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: cfab5c85a42a34945af6534087bef040, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6c3463e8767391f4aa173af2fd9938bd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1a5d86b94d164734d820bd6dd6d5859f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ff53fcfbf6facae48b6f5ea72a34a11c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/R-pref/bundleObjects/BundleRooms/room10deco.prefab
+Dependencies: []
