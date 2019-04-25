@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 256321539
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: bundlerootrooms
+      Dependencies: {}
+    Info_1:
+      Name: bundelrootmain
+      Dependencies: {}
