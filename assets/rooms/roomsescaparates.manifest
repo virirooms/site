@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 4251920780
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f0b7edd7aaf84f69c8230de18f7eb643
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bdc96e87341fee334ff5f584d00ae84c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ff53fcfbf6facae48b6f5ea72a34a11c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/R-pref/bundleObjects/BundleRooms/roomsescaparates.prefab
+Dependencies: []
