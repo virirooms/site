@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3406879046
+CRC: 1558749086
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 452754eb95d0f44d87288f0f718337a5
+    Hash: b51c31e2ea7d5605d36f6887f5af32ae
   TypeTreeHash:
     serializedVersion: 2
     Hash: 34f667c93f4ef4c4db3451d697be45f0
@@ -40,5 +40,5 @@ ClassTypes:
 - Class: 115
   Script: {instanceID: 0}
 Assets:
-- Assets/Prefabs/R-pref/bundleObjects/BundleRooms/room23deco.prefab
+- Assets/Prefabs/R-pref/bundleObjects/BundleRooms/room36deco.prefab
 Dependencies: []
