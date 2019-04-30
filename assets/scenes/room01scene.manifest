@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 531245973
+CRC: 930585938
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6daf9721c4f370ef231f5758f8bcad76
+    Hash: 5167a8f455198173de1757648f933646
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 977b9c9ed1cfd1ad7ad0750c43d3af61
+    Hash: b50aa4b34c71190de6986338b71ead59
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -23,15 +23,15 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 81
   Script: {instanceID: 0}
-- Class: 92
+- Class: 89
   Script: {instanceID: 0}
 - Class: 104
   Script: {instanceID: 0}
 - Class: 108
   Script: {instanceID: 0}
-- Class: 124
-  Script: {instanceID: 0}
 - Class: 157
+  Script: {instanceID: 0}
+- Class: 258
   Script: {instanceID: 0}
 Assets:
 - Assets/Scenes/room01scene.unity
