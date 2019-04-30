@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 1005190230
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f9e5081dfeaa495032d1f4a76ea0b9f9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2020b5709264762a9140484e072eea45
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6c3463e8767391f4aa173af2fd9938bd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1a5d86b94d164734d820bd6dd6d5859f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/roomsBundlePref/room01Content.prefab
+Dependencies: []
