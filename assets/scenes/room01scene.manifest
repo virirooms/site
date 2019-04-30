@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 531245973
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6daf9721c4f370ef231f5758f8bcad76
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 977b9c9ed1cfd1ad7ad0750c43d3af61
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 92
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 124
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+Assets:
+- Assets/Scenes/room01scene.unity
+Dependencies: []
