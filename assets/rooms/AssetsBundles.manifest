@@ -1,7 +1,79 @@
 ManifestFileVersion: 0
-CRC: 3634970081
+CRC: 560663717
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: contenido
+      Name: room01content
+      Dependencies: {}
+    Info_1:
+      Name: room02content
+      Dependencies: {}
+    Info_2:
+      Name: room03content
+      Dependencies: {}
+    Info_3:
+      Name: room04content
+      Dependencies: {}
+    Info_4:
+      Name: room05content
+      Dependencies: {}
+    Info_5:
+      Name: room06content
+      Dependencies: {}
+    Info_6:
+      Name: room07content
+      Dependencies: {}
+    Info_7:
+      Name: room08content
+      Dependencies: {}
+    Info_8:
+      Name: room09content
+      Dependencies: {}
+    Info_9:
+      Name: room10content
+      Dependencies: {}
+    Info_10:
+      Name: room11content
+      Dependencies: {}
+    Info_11:
+      Name: room12content
+      Dependencies: {}
+    Info_12:
+      Name: room13content
+      Dependencies: {}
+    Info_13:
+      Name: room14content
+      Dependencies: {}
+    Info_14:
+      Name: room15content
+      Dependencies: {}
+    Info_15:
+      Name: room16content
+      Dependencies: {}
+    Info_16:
+      Name: room17content
+      Dependencies: {}
+    Info_17:
+      Name: room18content
+      Dependencies: {}
+    Info_18:
+      Name: room19content
+      Dependencies: {}
+    Info_19:
+      Name: room20content
+      Dependencies: {}
+    Info_20:
+      Name: room21content
+      Dependencies: {}
+    Info_21:
+      Name: room22content
+      Dependencies: {}
+    Info_22:
+      Name: room23content
+      Dependencies: {}
+    Info_23:
+      Name: room24content
+      Dependencies: {}
+    Info_24:
+      Name: room25content
       Dependencies: {}

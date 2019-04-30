@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 99748731
+CRC: 2597922821
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 176077a4adf85d0acd6951aa9576007c
+    Hash: 1b4619f7c7fa85f67298bd470fde5bd2
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2020b5709264762a9140484e072eea45
@@ -36,5 +36,5 @@ ClassTypes:
 - Class: 115
   Script: {instanceID: 0}
 Assets:
-- Assets/roomsBundlePref/room01Content.prefab
+- Assets/roomsBundlePref/room25Content.prefab
 Dependencies: []
