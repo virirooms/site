@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 637051833
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: weel
+      Dependencies: {}
+    Info_1:
+      Name: room01content
+      Dependencies: {}
