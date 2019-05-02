@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 492702898
+CRC: 2403007581
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a4dc1887633f9f890b0e0039f6c85cd0
+    Hash: 7c9f0a9801f07dcb6fda78f8ba554064
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 02f45f41090b6fac49e67e4db8801c38
+    Hash: 0b10ede6ab13eff5f670660a66ab9e56
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -30,15 +30,15 @@ ClassTypes:
 - Class: 65
   Script: {instanceID: 0}
 - Class: 114
-  Script: {fileID: 11500000, guid: 6c3463e8767391f4aa173af2fd9938bd, type: 3}
+  Script: {fileID: 11500000, guid: bbc5c289a29487f4db746a109a9baea0, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 2a27f89a302593a4f8c6f384ba214a7a, type: 3}
+  Script: {fileID: 11500000, guid: de82bc848910889458a192259b1d719f, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 570d9f2bd261ef54d8903713d8bc430d, type: 3}
+  Script: {fileID: 11500000, guid: 22095947f6b30164b8834c50b00e145a, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: e5d26ee3bc065734fa95ad577d4d2838, type: 3}
+  Script: {fileID: 11500000, guid: edfe53ee636ccb14ab5dbb28b4f751a6, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 Assets:
-- Assets/roomsBundlePref/room24Content.prefab
+- Assets/Prefabs/PrefR/roomsBundlePref/room24Content.prefab
 Dependencies: []
