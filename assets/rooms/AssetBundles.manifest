@@ -1,0 +1,100 @@
+ManifestFileVersion: 0
+CRC: 597353689
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: weel
+      Dependencies: {}
+    Info_1:
+      Name: room01content
+      Dependencies: {}
+    Info_2:
+      Name: room05content
+      Dependencies: {}
+    Info_3:
+      Name: room04content
+      Dependencies: {}
+    Info_4:
+      Name: room03content
+      Dependencies: {}
+    Info_5:
+      Name: room02content
+      Dependencies: {}
+    Info_6:
+      Name: room06content
+      Dependencies: {}
+    Info_7:
+      Name: room07content
+      Dependencies: {}
+    Info_8:
+      Name: room08content
+      Dependencies: {}
+    Info_9:
+      Name: room09content
+      Dependencies: {}
+    Info_10:
+      Name: room10content
+      Dependencies: {}
+    Info_11:
+      Name: room11content
+      Dependencies: {}
+    Info_12:
+      Name: room12content
+      Dependencies: {}
+    Info_13:
+      Name: room13content
+      Dependencies: {}
+    Info_14:
+      Name: room14content
+      Dependencies: {}
+    Info_15:
+      Name: room15content
+      Dependencies: {}
+    Info_16:
+      Name: room16content
+      Dependencies: {}
+    Info_17:
+      Name: room17content
+      Dependencies: {}
+    Info_18:
+      Name: room18content
+      Dependencies: {}
+    Info_19:
+      Name: room19content
+      Dependencies: {}
+    Info_20:
+      Name: room20content
+      Dependencies: {}
+    Info_21:
+      Name: room21content
+      Dependencies: {}
+    Info_22:
+      Name: room22content
+      Dependencies: {}
+    Info_23:
+      Name: room23content
+      Dependencies: {}
+    Info_24:
+      Name: room24content
+      Dependencies: {}
+    Info_25:
+      Name: room25content
+      Dependencies: {}
+    Info_26:
+      Name: room26content
+      Dependencies: {}
+    Info_27:
+      Name: room27content
+      Dependencies: {}
+    Info_28:
+      Name: room28content
+      Dependencies: {}
+    Info_29:
+      Name: room29content
+      Dependencies: {}
+    Info_30:
+      Name: room30content
+      Dependencies: {}
+    Info_31:
+      Name: room01scene
+      Dependencies: {}
