@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1220774080
+CRC: 1124176431
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5c13bcf569caadd14e44c04e284c7254
+    Hash: bd413c2103912eb04dc7c217083c2215
   TypeTreeHash:
     serializedVersion: 2
     Hash: b38cc5be0ecea015a04e50c61f43ed1f
@@ -30,5 +30,5 @@ ClassTypes:
 - Class: 115
   Script: {instanceID: 0}
 Assets:
-- Assets/roomsBundlePref/escaparates/escaparate01.prefab
+- Assets/roomsBundlePref/escaparates/escaparate06.prefab
 Dependencies: []
