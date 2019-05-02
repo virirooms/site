@@ -1,17 +1,19 @@
 ManifestFileVersion: 0
-CRC: 2039507786
+CRC: 2549587136
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 02bfb7cdd2cb6d0df41c269bbaef0508
+    Hash: cc74f238caf5297790cd7ed766b34b74
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 530d010e50f45d04a7938fe89a3bcf7d
+    Hash: 6788160c3b1a33c4a010a64900166761
 HashAppended: 0
 ClassTypes:
 - Class: 1
   Script: {instanceID: 0}
 - Class: 4
+  Script: {instanceID: 0}
+- Class: 21
   Script: {instanceID: 0}
 - Class: 23
   Script: {instanceID: 0}
@@ -19,10 +21,14 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 43
   Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
 - Class: 65
   Script: {instanceID: 0}
 - Class: 114
-  Script: {fileID: 11500000, guid: de82bc848910889458a192259b1d719f, type: 3}
+  Script: {fileID: 11500000, guid: c7e078d6af5f9c84b8a3cdd59fafb340, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
 Assets:
 - Assets/roomsBundlePref/letreros1.prefab
 Dependencies: []
