@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2038168072
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 211323a10fb91ee78eca8451ba153b78
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2634b609ea10cea2c59e6c89a0d7e12e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ad1c929b458d60849816677be291e0fe, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/PrefR/rootBundle/bundlemain.prefab
+Dependencies: []
