@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 135854395
+CRC: 3774684765
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d7cf599da6ccb51faea8b6d96b3345d8
+    Hash: 001c9a0180974ace89fe2070f56a4eb2
   TypeTreeHash:
     serializedVersion: 2
-    Hash: b38cc5be0ecea015a04e50c61f43ed1f
+    Hash: e04a75da2dda84718e3bcb8fe79ee162
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -23,12 +23,12 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
-- Class: 64
+- Class: 65
   Script: {instanceID: 0}
 - Class: 114
-  Script: {fileID: 11500000, guid: c7e078d6af5f9c84b8a3cdd59fafb340, type: 3}
+  Script: {fileID: 11500000, guid: de82bc848910889458a192259b1d719f, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 Assets:
-- Assets/roomsBundlePref/escaparates/escaparate10.prefab
+- Assets/Prefabs/roomsBundlePref/escaparates/escaparate (10).prefab
 Dependencies: []
