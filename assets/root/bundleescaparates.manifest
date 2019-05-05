@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 758162603
+CRC: 1532343780
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a4db6a88a6d77ab2c39f49dd887921ae
+    Hash: 020c0cc2d2ccf0b01d57dc5de0768846
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 9abc731b4e8288d9d8c2f06cfca32aac
+    Hash: 9f9b7abcf74ec1f69de9ee48102b9937
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -14,9 +14,9 @@ ClassTypes:
 - Class: 4
   Script: {instanceID: 0}
 - Class: 114
-  Script: {fileID: 11500000, guid: deb850b00202b7842be13f1a4c44f349, type: 3}
+  Script: {fileID: 11500000, guid: 1a2b784aca3f6294f9a5337085ecbaf6, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 Assets:
-- Assets/roomsBundlePref/root/bundleescaparates.prefab
+- Assets/Prefabs/rootBundle/bundleescaparates.prefab
 Dependencies: []
