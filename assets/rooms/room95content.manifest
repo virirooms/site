@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2331691633
+CRC: 613820521
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d62a6fa3219620ea3da41e48d8ff82f8
+    Hash: f4cb49ed955d4a714bcfa56feebd91f6
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 51e560ab367dbf750cb005dcc6308037
+    Hash: e826df148a5916caeba3a207f39cf3ec
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -30,15 +30,11 @@ ClassTypes:
 - Class: 65
   Script: {instanceID: 0}
 - Class: 114
-  Script: {fileID: 11500000, guid: de82bc848910889458a192259b1d719f, type: 3}
+  Script: {fileID: 11500000, guid: 1a5d86b94d164734d820bd6dd6d5859f, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 22095947f6b30164b8834c50b00e145a, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: bbc5c289a29487f4db746a109a9baea0, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: edfe53ee636ccb14ab5dbb28b4f751a6, type: 3}
+  Script: {fileID: 11500000, guid: 6c3463e8767391f4aa173af2fd9938bd, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 Assets:
-- Assets/Prefabs/roomsBundlePref/room50Content.prefab
+- Assets/Prefabs/roomsBundlePref/room95Content.prefab
 Dependencies: []
